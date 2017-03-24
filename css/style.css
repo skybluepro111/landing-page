@@ -29,3 +29,26 @@
     background-size: cover;
     color: #fff;
 }
+
+.header img {
+    height: 350px;
+    width: 450px;
+    margin: 70px 0 0 40px;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+.header h1,
+.header p,
+.header button {
+    margin-top: 20px;
+}
+
+.header .btn {
+    border-radius: 0;
+    margin: 40px 20px;
+}
