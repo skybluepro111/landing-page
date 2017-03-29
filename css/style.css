@@ -233,4 +233,38 @@
     opacity: 1;
 }
 
+/*client*/
+
+/*contact*/
+.contact {
+    padding: 50px 0 80px;
+    text-align: center;
+}
+
+.contact p {
+    color: black;
+    padding-bottom: 88px;
+}
+
+.contact .input-group {
+    margin-bottom: 25px;
+}
+
+.contact .form-control, span {
+    border-radius: 0 !important;
+}
+
+.contact .btn {
+    width:100%;
+    border-radius: 0;
+    font-size: 15px;
+    background-color: #f08080;
+    color: white;
+}
+
+.contact .btn:hover {
+    background-color: #a85959 !important;
+    color: white;
+}
+
       
