@@ -214,6 +214,7 @@
     padding: 50px 0 80px;
     background-color: dodgerblue;
     text-align: center;
+    color: white;
 }
 
 .clients h2, p {
@@ -221,10 +222,15 @@
 }
 
 .clients img {
-    height: 50px;
+    opacity: 0.6;
     width: 200px;
+    cursor: pointer;
     margin-top: 50px;
+    transition: all 500ms ease-in-out;
+}
 
+.clients li:hover img {
+    opacity: 1;
 }
 
       
