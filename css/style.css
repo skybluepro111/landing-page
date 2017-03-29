@@ -207,4 +207,24 @@
     background-color: #709973;
 }
 
+/*TEAM*/
+
+/*Clients*/
+.clients {
+    padding: 50px 0 80px;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.clients h2, p {
+    color: white;
+}
+
+.clients img {
+    height: 50px;
+    width: 200px;
+    margin-top: 50px;
+
+}
+
       
