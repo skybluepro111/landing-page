@@ -263,8 +263,43 @@
 }
 
 .contact .btn:hover {
-    background-color: #a85959 !important;
+    background-color: #a85959; 
+    color: white !important;
+}
+
+/*contact*/
+
+/*footer*/
+.footer {
+    background-color: #222222;
+    padding: 30px;
+    color: #cccccc;
+}
+
+.footer h4, p {
+    /*font-size: 15px;*/
     color: white;
 }
 
+.footer i {
+    font-size: 20px;
+    padding: 5px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    margin: 0 5px 10 0px;
+}
+
+.footer input {
+    height: 42px;
+    width: 168px;
+    border: none;
+    background-color: #cccccc;
+    color: #000;
+}
+.footer .btn {
+    padding: 10px 5px 10px;
+    margin: 5px 0 5px;
+}
       
